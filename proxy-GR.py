@@ -33,7 +33,7 @@ print(R +
 '''
 	)
 print()
-print(G + '[X] STAERTING NOW !!')
+print(G + '[X] STARTING NOW !!')
 path = os.getcwd()
 
 os.makedirs('Downloads' , exist_ok=True)
